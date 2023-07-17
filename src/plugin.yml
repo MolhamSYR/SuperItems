@@ -1,0 +1,8 @@
+main: me.molhamsyr.superitems.main.FoxItems
+name: SuperItems
+author: MolhamSYR
+version: 1.0
+api-version: 1.16
+
+commands:
+  superitems:
